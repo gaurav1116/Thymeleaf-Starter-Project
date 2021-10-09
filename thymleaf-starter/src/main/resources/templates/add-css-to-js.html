@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th = "http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Add CSS and JS to Thymeleaf</title>
+<link th:href= "@{/css/main.css}" rel="stylesheet">
+<script type="text/javascript" th:src = "@{/js/actions.js}"></script>
+</head>
+<body>
+
+	<h2> Home Page</h2>
+	<p>
+		We welcome you to our Website.
+	</p>
+	
+	<button type="button" th:onClick ="welcomeAlert()">Hello User</button>
+</body>
+</html>
