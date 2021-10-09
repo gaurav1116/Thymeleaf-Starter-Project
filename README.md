@@ -4,5 +4,5 @@
 ![HomePage1](https://user-images.githubusercontent.com/51941964/136658940-c28c3f6c-239a-4b36-a81f-73d4c865647b.png)
 
 ## User-Profile
-![Userprofile](https://user-images.githubusercontent.com/51941964/136660503-30cff925-5360-4eed-b9dd-d14ccb938d98.png)
+![user-profile](https://user-images.githubusercontent.com/51941964/136660891-785098e4-b963-45f7-a72d-30b62891c5ef.png)
 
