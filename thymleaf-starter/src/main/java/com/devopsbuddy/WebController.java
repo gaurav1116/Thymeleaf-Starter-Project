@@ -13,4 +13,10 @@ public class WebController {
 		model.addAttribute("message"," Welcome to our Website" );
 		return("index");
 	}
+	
+	@GetMapping("/homepage")
+	public String style() {
+		
+		return("add-css-to-js");
+	}
 }
